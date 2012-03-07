@@ -15,7 +15,7 @@ public class Eric {
 			// Write  a simple file writer to output to a file (.csv)
 			// Now comes the second part,which will read the csv and generate some matrix from that
 		 //study what kinda of matrix can be generated using the information "who's is calling who"
-			System.out.println("syed");
+//
 			
 			//}
 		}
