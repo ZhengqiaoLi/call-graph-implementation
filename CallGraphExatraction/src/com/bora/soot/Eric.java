@@ -1,5 +1,10 @@
 package com.bora.soot;
 
+/*
+	Author: Syed Mahmood
+	Date: 3.1.2012
+*/
+
 public class Eric {
 
 
@@ -20,7 +25,41 @@ public class Eric {
 			//}
 		}
 
+		/** Makes the object of soot and access the function calls generation method */
 		
+		
+		public void sootFunctionCallsGenerationMethod(){
+		
+		
+		}
+		
+		/** Reads source files */
+		
+		public void readSourceFile(){
+		
+		
+		}
+		/** Generates separate CSV file for each module*/
+		
+		private void generateCSV(){
+		
+		
+		}
+		
+		/** Reads CSV file to organize the output to arranage in metrics */
+		
+		public void readCSV(){
+		
+		
+		}
+		
+		/** Generates metrics of information in CSV*/
+		
+		public void generateMetrics(){
+		
+		
+		
+		}
 		
 	}
 
