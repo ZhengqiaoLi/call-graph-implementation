@@ -1,0 +1,9 @@
+#Here I have shared what we need to study to accomplish the project
+
+= Do R&D on these =
+Studying the documentation given in the following links may help to accomplish the project. 
+ 
+http://www.brics.dk/SootGuide/
+http://www.sable.mcgill.ca/soot/
+
+
