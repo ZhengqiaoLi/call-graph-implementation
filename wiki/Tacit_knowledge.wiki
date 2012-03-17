@@ -7,7 +7,5 @@ Here you can share your experience during development of the software.
 
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+ Please share your experience by making comment during development. 
+ 
